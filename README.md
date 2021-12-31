@@ -13,4 +13,4 @@ helm install mygoapp gbaeke/go-template
 
 
 
-hello world
+new
